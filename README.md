@@ -1,0 +1,3 @@
+# Project: Automatic Hate Speech Detection using TF-IDF Vectorization and Ensemble Machine Learning Approach
+A model that incorporates TF-IDF vectorization for feature extraction and employs an ensemble machine learning approach (an ensemble of Support Vector and Random Forest classifier) to accurately classify hateful and offensive content. The end application is a Web UI Application which prompts user to enter any textual input in either English or Hindi-English code mix language and the underlying model classifies the input into hate, offensive or neutral based on the type of content the text contains.
+
